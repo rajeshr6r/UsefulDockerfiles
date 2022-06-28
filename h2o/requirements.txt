@@ -1,0 +1,13 @@
+pandas
+numpy
+h2o==3.34.0.3
+joblib
+numpy
+colorama
+future
+requests
+tabulate
+Werkzeug
+xlrd
+flask
+fastapi
